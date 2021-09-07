@@ -1,0 +1,2 @@
+PGPy~=0.5.3
+python-gnupg~=0.4.6
