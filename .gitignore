@@ -1,0 +1,10 @@
+venv
+.env*
+.vscode
+**/__pycache__
+src/bot/commands.json
+build
+dist
+*.spec
+*.log
+*.tmp

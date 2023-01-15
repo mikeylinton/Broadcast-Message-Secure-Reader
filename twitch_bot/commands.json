@@ -1,0 +1,15 @@
+{
+    "test": {
+        "content": "Test: {message.text}",
+        "action": "",
+        "role": "Moderator"
+    },
+    "test2": {
+        "content": "Test: {message.text}",
+        "role": "Moderator"
+    },
+    "tododone": {
+        "content": "Done! ToDo",
+        "role": "Moderator"
+    }
+}

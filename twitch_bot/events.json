@@ -1,0 +1,19 @@
+{
+    "whispers": [
+        {
+            "type": "whisper_received",
+            "request": {
+                "type": "SetSceneItemTransform",
+                "data": {
+                    "scene_name": "Scene 2",
+                    "item_id": 2,
+                    "y": 100,
+                    "duration": 2,
+                    "x_start": 2000,
+                    "x_end": 800,
+                    "delay": 3
+                }
+            }
+        }
+    ]
+}
